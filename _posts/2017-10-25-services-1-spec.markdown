@@ -1,9 +1,9 @@
 ---
 layout: default
-img: dog.png
+img: spec.jpg
 category: Services
 title: Spec
 description: |
 ---
-  The [**Social Finance Data Specification (SFDS)**](http://social-finance-data-specification.readthedocs.io/en/latest/)
+  The [**Data Specification for Social Investment (DSSI)**](http://social-finance-data-specification.readthedocs.io/en/latest/)
   is being developed to specify a common data model which describes social investment

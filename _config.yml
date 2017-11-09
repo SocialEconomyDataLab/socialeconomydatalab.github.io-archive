@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Social Finance Data Lab
+title: Social Investment Data Lab
 email: bob.harper@opendataservices.coop
 description: >- # this means to ignore newlines until "baseurl:"
-  The Social Finance Data Lab is a project to improve the
+  The Social Investment Data Lab is a project to improve the
   availability and usability of social investment data.
   The project is being led by Power to Change and Open Data Services.
 baseurl: "" # the subpath of your site, e.g. /blog

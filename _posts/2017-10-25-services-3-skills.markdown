@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: skills.jpg
 category: Services
 title: Skills
 description: |
