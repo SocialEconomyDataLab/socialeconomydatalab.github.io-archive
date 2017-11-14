@@ -2,6 +2,8 @@
 layout: faqs
 title: Frequently Asked Questions
 ---
+* TOC
+{:toc}
 
 ## What is social finance and social investment?
 Social investment it is the investment of money with the aim of providing a social benefit, as well as an economic return.
