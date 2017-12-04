@@ -29,3 +29,8 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$(window).load(function() {
+  $(".intro-message").addClass("appear");
+  $(".intro-divider").addClass("appear");
+});
