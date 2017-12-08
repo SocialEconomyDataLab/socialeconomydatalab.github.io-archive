@@ -43,10 +43,10 @@ h6 {
     color: #f8f8f8;
     background-color: #09bcc6;  /* fallback color */
     background: linear-gradient(141deg, #09bcc6 0%, #1fc8db 51%, #2cb5e8 75%); /* fallback gradient */
-    background-image: url(../img/logos/sfdl_logo_nobkgd.png); /* fallback image */
+    background-image: url(../img/logos/sfdl_logo_nobkgd.svg); /* fallback image */
     background-repeat: no-repeat; /* fallback image directive */
     background-position: center center; /* fallback image directive */
-    background: url(../img/logos/sfdl_logo_nobkgd.png) no-repeat center center, linear-gradient(141deg, #09bcc6 0%, #1fc8db 51%, #2cb5e8 75%);
+    background: url(../img/logos/sfdl_logo_nobkgd.svg) no-repeat center center, linear-gradient(141deg, #09bcc6 0%, #1fc8db 51%, #2cb5e8 75%);
     background-size: contain;
 }
 
