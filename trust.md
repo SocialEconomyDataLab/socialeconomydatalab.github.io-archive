@@ -21,7 +21,10 @@ The Social Economy Data Trust aims to respond to that need by drawing on an old 
 
 Digital Civic Trusts are legal agreements that embed governance mechanisms into the ownership infrastructure of digital assets. This approach starts with using trust agreements to appoint and structure the ownership of digital assets, which draws on common law's oldest approach to protecting assets in the public interest. It draws on the model of civic trusts, which substitute the traditional trustee organization with an informal community governance structure. Digital Civic Trusts go a step further, embedding the community governance into the trust agreement itself, adding a layer of accountability for trustees, who have a legal responsibility for preserving the public interest.
 
-Digital Civic Trusts could solve three key challenges commonly faced by civil society organizations: (1) they move ownership away from the civil society organization, creating a safe space to experiment with different models of engagement; (2) they embed governance at the asset level, ensuring that even if a civil society organization closes down, the underlying data is managed in the public interest; and (3) they give data subjects and stakeholders a meaningful role in holding responsible parties accountable for decisions that affect their well-being, without relying on individual data subjects having to litigate to assert their rights.
+Digital Civic Trusts could solve three key challenges commonly faced by civil society organizations:
+1. They move ownership away from the civil society organization, creating a safe space to experiment with different models of engagement;
+2. They embed governance at the asset level, ensuring that even if a civil society organization closes down, the underlying data is managed in the public interest; and
+3. They give data subjects and stakeholders a meaningful role in holding responsible parties accountable for decisions that affect their well-being, without relying on individual data subjects having to litigate to assert their rights.
 
 You can read more about Sean McDonald's work on data trusts [here](https://medium.com/@McDapper/the-civic-trust-e674f9aeab43).
 
@@ -45,9 +48,9 @@ In addition to this context of investment that demands more informed decision-ma
 
 - Data access is best brokered through a collaborative partnership rather than through individual organisations competing to develop bespoke systems. This is for two key reasons:
 
-o Value for money -- particularly in funding access to privately held data
+  - **Value for money** - particularly in funding access to privately held data
 
-o Effective governance -- this is needed both as part of more reflective data ethics, but also to manage access to data sets that are currently inaccessible in the absence of fair and agile systems for managing their use
+  - **Effective governance** - this is needed both as part of more reflective data ethics, but also to manage access to data sets that are currently inaccessible in the absence of fair and agile systems for managing their use
 
 ## The project
 
