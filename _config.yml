@@ -21,8 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The project is being led by Power to Change and Open Data Services.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: opendatacoop
-github_username:  SocialEconomyDataLab
+twitter_username: SocialEconomyDataLab
+github_username: SocialEconomyDataLab
 
 # Build settings
 markdown: kramdown
