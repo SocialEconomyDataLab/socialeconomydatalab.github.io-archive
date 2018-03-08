@@ -20,6 +20,10 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.post-meta {
+  color: grey;
+}
+
 .navbar-brand {
   padding: 0px;
 }

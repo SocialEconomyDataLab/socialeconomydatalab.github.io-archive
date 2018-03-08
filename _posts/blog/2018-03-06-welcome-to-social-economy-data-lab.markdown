@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the Social Economy Data Lab"
+title:  Welcome to the Social Economy Data Lab
 date:   2018-03-06 12:00:00 +0100
 category: blog
 author: Social Economy Data Lab
