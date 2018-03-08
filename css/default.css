@@ -20,12 +20,17 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+body {
+  font-size: 20px;
+}
+
 .post-meta {
   color: grey;
 }
 
 .navbar-brand {
   padding: 0px;
+  font-size: 20px;
 }
 
 .navbar-brand>img {
@@ -40,7 +45,6 @@ nav:hover a:hover {
 }
 
 .lead {
-    font-size: 18px;
     font-weight: 400;
 }
 
@@ -124,10 +128,6 @@ nav:hover a:hover {
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 2px;
-}
-
-.about-section {
-    font-size: medium;
 }
 
 .content-section-a {
