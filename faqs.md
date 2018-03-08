@@ -1,5 +1,5 @@
 ---
-layout: faqs
+layout: page
 title: Frequently Asked Questions
 ---
 * TOC

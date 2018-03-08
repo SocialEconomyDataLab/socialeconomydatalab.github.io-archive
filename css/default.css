@@ -34,6 +34,11 @@ h6 {
   width: auto;
 }
 
+nav:hover a:hover {
+  	-webkit-transition: all 0.5s ease-in-out 0s;
+  	transition: all 0.5s ease-in-out 0s;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
@@ -83,6 +88,7 @@ h6 {
 
 .intro-divider.appear {
     width: 400px;
+    max-width: 75%;
 }
 
 .intro-message > h3 {
@@ -214,4 +220,50 @@ footer a {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+#call_to_action {
+  background: url(../img/logos/sedl_logo_nobkgd.svg) no-repeat center center, linear-gradient(141deg, #09bcc6 0%, #1fc8db 51%, #2cb5e8 75%);
+  background-position: right;
+  background-size: 200%;
+  padding: 50px 0px 50px 0px;
+  color: #fff;
+}
+
+.left-20 {
+  left: 10%;
+}
+
+.headline {
+  font-size: 45px;
+  font-weight: 300;
+  line-height: 50px;
+  letter-spacing: -0.25px;
+}
+
+.subtitle {
+  margin: 20px 0 40px;
+  color: #9ad9ff;
+  font-size: 22.5px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: -0.1px;
+}
+
+.cta {
+  padding: 13px 24px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  border: 0;
+  border-radius: 5px;
+  background-color: #7ec954;
+  transition-property: all;
+  transition-duration: 0.15s;
+  transition-timing-function: ease-in-out;
+
+  &:hover {
+    background-color: #9bd57b;
+  }
 }
