@@ -1,21 +1,23 @@
 ---
 layout: default
 ---
-
 <section>
-  <div class="container content-section about-section">
+  <div class="container content-section">
+    <ol class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li class="active">{{ page.title }}</li>
+    </ol>
     <article class="post">
 
       <h1>{{ page.title }}</h1>
 
-      <h4>Author: {{ page.author }}</h4>
+      <h4>
+        <span class="post-meta"><em>By {{ page.author }} on {{ page.date | date: "%B %e, %Y" }}</em></span>
+      </h4>
 
       <div class="entry">
         {{ content }}
-      </div>
-
-      <div class="date">
-        <em>Posted on {{ page.date | date: "%B %e, %Y" }}</em>
       </div>
 
     </article>

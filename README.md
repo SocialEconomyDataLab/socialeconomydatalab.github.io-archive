@@ -26,7 +26,7 @@ author: Author Name
 excerpt: Optional custom excerpt to show on the blog post list page
 ---
 ```
-1. Go to [\_posts/blog](/tree/master/_posts/blog) and click on _'Create File'_
+1. Go to [\_posts/blog](/tree/master/_posts/blog) and click on _'Create new file'_
 2. Name the file in the format ```yyyy-mm-dd-title-of-your-blog.md```
 3. Copy and paste in the above front-matter (including the `---`s) and edit the `title`, `date`, `author` and `except` variables as appropriate (leave `layout` and `category` as they are).
 4. Continue writing your blog post in [Markdown](https://daringfireball.net/projects/markdown/syntax)
