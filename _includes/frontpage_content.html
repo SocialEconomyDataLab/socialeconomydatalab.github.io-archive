@@ -11,11 +11,11 @@
               <div class="col-lg-5 col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">{{ post.title }}</h2>
-                <div class="lead">{{ post.excerpt }}</div>
+                <h2 class="section-heading"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                <div class="lead">{{ post.description }}</div>
               </div>
               <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                <a href="{{ post.url | relative_url }}"><img class="img-responsive" src="img/services/{{ post.img }}" alt=""></a>
               </div>
             </div>
           </div>        <!-- /.container -->
@@ -28,11 +28,11 @@
               <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">{{ post.title }}</h2>
-                <div class="lead">{{ post.excerpt }}</div>
+                <h2 class="section-heading"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                <div class="lead">{{ post.description }}</div>
               </div>
               <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                <a href="{{ post.website }}"><img class="img-responsive" src="img/services/{{ post.img }}" alt="{{ post.title }}"></a>
+                <a href="{{ post.url | relative_url }}"><img class="img-responsive" src="img/services/{{ post.img }}" alt="{{ post.title }}"></a>
               </div>
             </div>
           </div>        <!-- /.container -->
