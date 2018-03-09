@@ -6,7 +6,7 @@
           <h3>{{ site.title }}</h3>
           <p>The Social Economy Data Lab supports the use of data to create better conditions for social investment</p>
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-2">
         <ul class="list-unstyled">
           <li>
             <a href="/">Home</a>
@@ -22,10 +22,12 @@
           </li>
         </ul>
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-4">
         {% if site.github_username %}<a href="http://github.com/{{ site.github_username }}"><i class="fa fa-github" aria-hidden="true"></i> Github</a>{% endif %}
         <br />
         {% if site.twitter_username %}<a href="http://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter" aria-hidden="true"></i> @{{ site.twitter_username }}</a>{% endif %}
+        <br />
+        {% if site.contact_email %}<a href="mailto:{{ site.contact_email }}"><i class="fa fa-mail" aria-hidden="true"></i> {{ site.contact_email }}</a>{% endif %}
       </div>
     </div>
     <div class="row">
