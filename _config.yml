@@ -23,6 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 keywords: social, investment, economy, open, data, labs, spec, standard, civic, trust, specification, power to change
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: pretty
+
 domain: socialeconomydatalab.org
 twitter_username: SocEconDataLab
 github_username: SocialEconomyDataLab
