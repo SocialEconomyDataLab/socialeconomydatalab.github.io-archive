@@ -27,7 +27,7 @@ In October, a session hosted by Wellcome Trust brought together over 40 professi
 
 * There is insufficient information about when and how the findings of a diagnostic process are translated into actions, and the impact of any actions taken.
 
-These discussions framed and informed what has now become the [Open Diagnostic](http://socialeconomydatalab.org/opendiagnostic) project. This three month project has been co-funded by Lloyds Bank Foundation and Access Foundation, and will see us continuing to engage with the broad range of organisations involved up to this point. Our top priority right now is to take this conversation out to the charities and social enterprises all of these organisations exist to support.
+These discussions framed and informed what has now become the [Open Diagnostic](http://socialeconomydatalab.org/open-diagnostics) project. This three month project has been co-funded by Lloyds Bank Foundation and Access Foundation, and will see us continuing to engage with the broad range of organisations involved up to this point. Our top priority right now is to take this conversation out to the charities and social enterprises all of these organisations exist to support.
 
 Between now and June, we will build and test a basic prototype online diagnostic, which will make best use of existing sources of data, such as Charity Commission accounts and 360Giving. In the first instance, we’re interested in producing as valuable a set of information for social organisations as possible, based on as small an amount of data entry as possible.
 
