@@ -14,17 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Social Economy Data Lab
-email: bob.harper@opendataservices.coop
+author: Social Economy Data Lab
+email: contact@socialeconomydatalab.org
 description: >- # this means to ignore newlines until "baseurl:"
-  The Social Economy Data Lab is a project to improve the
-  availability and usability of social investment data.
-  The project is being led by Power to Change and Open Data Services.
+  The Social Economy Data Lab is home to a set of projects which are developing
+  ways in which charities, social enterprises, grant funders and social investors
+  in the UK can collectively make better use of data
+keywords: social, investment, economy, open, data, labs, spec, standard, civic, trust, specification, power to change
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 domain: socialeconomydatalab.org
-twitter_username: SocialEconomyDataLab
+twitter_username: SocEconDataLab
 github_username: SocialEconomyDataLab
-contact_email: admin@socialeconomydatalab.org
+contact_email: contact@socialeconomydatalab.org
 
 timezone: Europe/London
 
