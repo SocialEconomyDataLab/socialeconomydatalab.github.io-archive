@@ -28,7 +28,7 @@ In October, a session hosted by Wellcome Trust brought together over 40 professi
 
 * There is insufficient information about when and how the findings of a diagnostic process are translated into actions, and the impact of any actions taken.
 
-These discussions framed and informed what has now become the [Open Diagnostic](http://socialeconomydatalab.org/open-diagnostics) project. This three month project has been co-funded by Lloyds Bank Foundation and Access Foundation, and will see us continuing to engage with the broad range of organisations involved up to this point. Our top priority right now is to take this conversation out to the charities and social enterprises all of these organisations exist to support.
+These discussions framed and informed what has now become the [Open Diagnostic](http://socialeconomydatalab.org/open-diagnostic) project. This three month project has been co-funded by Lloyds Bank Foundation and Access Foundation, and will see us continuing to engage with the broad range of organisations involved up to this point. Our top priority right now is to take this conversation out to the charities and social enterprises all of these organisations exist to support.
 
 Between now and June, we will build and test a basic prototype online diagnostic, which will make best use of existing sources of data, such as Charity Commission accounts and 360Giving. In the first instance, we’re interested in producing as valuable a set of information for social organisations as possible, based on as small an amount of data entry as possible.
 
@@ -36,6 +36,9 @@ This will involve drawing on publicly available data, aggregating and presenting
 
 This obviously raises issues about data sharing permissions and privacy. How can we ensure that any such service exercises its proper duty of care in handling sensitive data, meets regulatory requirements and is trusted to be accurate, up to date and secure? We’re also concerned to challenge ourselves on inclusion: would some organisations be less able to benefit as they are not well-represented in the currently available data? Who might be sidelined by a data-led approach, and what should be done to enable them to join in?
 
-To help us work through such questions and understand how the service needs to work, we are committed to taking a ‘user-led’ approach - which simply means we’ll be asking the people we want to use the service what they think at every stage. Based on what we learn over the coming weeks, we will develop a strategic plan for an open, shared and collaborative approach to supporting organisational development within the social sector in the UK.
+To help us work through such questions and understand how the service needs to work, we are committed to taking a ‘user-led’ approach - which simply means we’ll be asking the people we want to use the service what they think at every stage. Based on what we learn over the coming weeks, we will develop a strategic plan for an open, shared and collaborative approach to supporting organisational development within the social sector in the UK. We'll also be running a light-touch 'concept testing' survey, to gauge wider interest in such a service and gather suggestions, questions and concerns.
+
+Based on what we learn over the coming weeks, we will develop a strategic plan for an open, shared and collaborative approach to supporting organisational development within the social sector in the UK.
+
 
 I’ll be posting to this blog regularly to give updates on progress, and would welcome your comments and suggestions - just [drop me a line](mailto:ed@socialeconomydatalab.org).
