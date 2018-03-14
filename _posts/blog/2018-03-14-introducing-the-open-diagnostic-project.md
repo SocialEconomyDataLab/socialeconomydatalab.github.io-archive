@@ -6,6 +6,7 @@ category: blog
 author:  Ed Anderton
 excerpt: Charities and social enterprises can benefit greatly from investing time, effort and resources into becoming more effective organisations. However, this can often be hard to achieve. Day-to-day demands - delivering services, managing staff, trustees and volunteers, securing ongoing income - can leave little space to reflect on the trajectory of the organisation as a whole.  
 ---
+Charities and social enterprises can benefit greatly from investing time, effort and resources into becoming more effective organisations. However, this can often be hard to achieve. Day-to-day demands - delivering services, managing staff, trustees and volunteers, securing ongoing income - can leave little space to reflect on the trajectory of the organisation as a whole.  
 
 This is an issue that is widely recognised across the social sector, and the momentum is growing to develop a set of strategic, collective responses. Over the course of 2017, a group of grant-makers, social investors and infrastructure bodies worked together to share their experience of designing and delivering capacity building support. This was based on broad agreement amongst all involved that such work could be more targeted and effective if there were more coordination and consistency between the funders and providers of such support.
 
