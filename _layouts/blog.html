@@ -19,14 +19,20 @@ layout: default
 											<hr class="section-heading-spacer">
 											<div class="clearfix"></div>
 											<h3>
-												<a class="post-link" href="{{ post.url | relative_url }}">
+												<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
 													{{ post.title | escape }}
 												</a>
 											</h3>
 											<h4>
 												<span class="post-meta"><em>By {{ post.author }} on {{ post.date | date: date_format }}</em></span>
 											</h4>
-											<div class="lead">{{ post.excerpt }}</div>
+											<div class="lead">
+                        {% if post.excerpt %}
+                          {{ post.excerpt }}<a href="{{ post.url | prepend: site.baseurl }}"> ... Read more</a>
+                        {% else %}
+                          {{ post.content | truncate:280 }}<a href="{{ post.url | prepend: site.baseurl }}"> Read more</a>
+                        {% endif %}
+                      </div>
 										</div>
 										<div class="col-lg-5 col-lg-offset-2 col-sm-6">
 											<img class="img-responsive" src="img/services/{{ post.img }}" alt="">
