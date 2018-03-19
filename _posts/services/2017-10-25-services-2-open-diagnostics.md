@@ -7,8 +7,11 @@ permalink: /open-diagnostic/
 description: Taking a user-led approach to developing a diagnostic service for charities and social enterprises, which makes the best use of existing sources of data, such as Charity Commission records and 360Giving
 ---
 
-Currently, social organisations in the UK lack a simple, standardised way to diagnose their strengths and weaknesses as organisations, identify their development priorities, and explore their options for capacity and capability building support.  
+Currently, social organisations in the UK lack a simple, standardised way to diagnose their strengths and weaknesses as organisations, identify their development priorities, and explore their options for capacity and capability building support.
+
 Between March and June 2018, the Social Economy Data Lab is working with a range of charities and social enterprises, along with grant-makers, infrastructure bodies and social investors, to better understand whether a standardised online service can effectively meet this need.
+
+This project is called "Open Diagnostic" because we will be taking an open, collaborative approach to developing this service and, wherever possible, drawing on open (ie publicly available) sources of information. 
 
 This three month project will involve:
 
