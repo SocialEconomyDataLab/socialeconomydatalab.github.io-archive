@@ -13,7 +13,7 @@ This information also allows us to access additional data beyond that held by go
 
 For the purposes of this trial, we have also used invoice data that is already held by Key Fund. We are, however, testing access to this data using accounting software, and that is why we include questions about accounting software in this survey. You may receive some invoice data in the report, but this will not have been sourced from accounting software or from information provided in the survey for the moment.
 
-By completing this form, you are giving us permission to analyse this data and provide it to you in a report and for feedback and further developed in the workshop on 22 May.
+By completing this form, you are giving us permission to analyse this data and provide it to you in a report, which will be presented to you for your feedback in the workshop at Key Fund on 22 May.
 
 The data will not be shared beyond the team working on the Social Economy Data Trust. This team is made up of Power to Change, Key Fund, Open Data Services Cooperative, Gen Maitland Hudson and Ed Anderton. All data used in this trial will be stored and analysed in compliance with the General Data Protection Regulation; you will see that we have included a privacy notice at the end of the survey, this is a test notice for the purposes of this trial.
 
