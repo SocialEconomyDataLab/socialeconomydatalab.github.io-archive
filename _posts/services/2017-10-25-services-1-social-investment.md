@@ -15,3 +15,5 @@ Supported by Power to Change and the Connect Fund, the project is working to:
 The project builds on learning from **[360Giving](http://www.threesixtygiving.org/)**, which has secured the publication of open data on over £11bn of grants from more than 50 different funders.
 
 Social investment brings new challenges for publishers and users of data, but it is hoped that the sharing of knowledge and best practice will create better conditions for social investment.
+
+You can [access the draft specification here](http://spec.socialeconomydatalab.org).

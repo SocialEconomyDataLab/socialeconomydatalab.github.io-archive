@@ -41,4 +41,4 @@ We want to develop the specification through an open process with the involvemen
 ## Who’s involved in this project?
 * Funder: [Power to Change](http://www.powertochange.org.uk/)
 * Technical partner: [Open Data Services Co-operative](http://www.opendataservices.coop/)
-* Pilot partners: [Key Fund](http://thekeyfund.co.uk/), [Community Shares Unit](http://communityshares.org.uk/), [Social and Sustainable Capital](http://socialandsustainable.com/)
+* Pilot partners: [Community Shares Unit](http://communityshares.org.uk/) and [Key Fund](http://thekeyfund.co.uk/).

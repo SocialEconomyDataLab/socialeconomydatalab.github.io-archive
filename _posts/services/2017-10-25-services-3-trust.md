@@ -9,6 +9,8 @@ description: Establishing a civic trust for data, working with a partnership of 
 * TOC
 {:toc}
 
+**The Social Economy Data Lab has hosted exploratory work for a data trust. This work is currently in hibernation.**
+
 ## Why do we need data trusts?
 
 Our world is digitizing faster than our ability to understand or govern it. The tools that we've used to build collective governance - organisations - appear and dissolve, taking the digital assets they create with them. We need better models to protect public interests in digital assets, and help those interests persist beyond the lifespan of a business case. We also need governance models that do better at:
