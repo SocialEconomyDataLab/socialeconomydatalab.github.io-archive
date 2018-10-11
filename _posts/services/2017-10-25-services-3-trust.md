@@ -4,6 +4,7 @@ img: trust.jpg
 category: Services
 title: Social Economy Data Trust
 permalink: /trust/
+status: active
 description: Establishing a civic trust for data, working with a partnership of social economy actors including grant funders, social investors and social organisations that have accessed social investment or grant funding
 ---
 * TOC

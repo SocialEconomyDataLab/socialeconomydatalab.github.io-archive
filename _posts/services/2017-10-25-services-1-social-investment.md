@@ -4,6 +4,7 @@ img: spec.jpg
 category: Services
 title: Social Investment
 permalink: /social-investment/
+status: active
 description: Working to create a better informed and more transparent social investment market in the UK, with better measurement of impact, increased lending efficiency and more strategic decision making
 ---
 Supported by Power to Change and the Connect Fund, the project is working to:
