@@ -4,6 +4,7 @@ img: hub.jpg
 category: Services
 title: Open Diagnostic
 permalink: /open-diagnostic/
+status: inactive
 description: Taking a user-led approach to developing a diagnostic service for charities and social enterprises, which makes the best use of existing sources of data, such as Charity Commission records and 360Giving
 ---
 
