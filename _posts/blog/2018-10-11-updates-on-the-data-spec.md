@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  Opening up
+title:  Updates on our data templates
 date:  2018-10-11 12:00:00 +0100
 category: blog
 author:  Tim Davies
@@ -19,10 +19,10 @@ Below you can find out more about the spec, and where we are up to.
 ### What is it? 
 
 **A data template...**
+
 The simplest way to think of the SEDL Data Specification is as a **shared data template for social investors**. 
 
-
-![Animation of the template]({{site.url}}/img/blog/template-gif.gif)
+![Animation of the template]({{site.url}}/img/blog/template-gif.gif 1000px)
 
 If you [look at our documentation, you will find a spreadsheet version of this template](http://spec.socialeconomydatalab.org/en/latest/getting_started/datatemplate/), which is pre-configured with columns for describing social investment deals, the projects they relate to, the assets they invest in, and the different components that make them up, including grants, loans and equity. 
 
