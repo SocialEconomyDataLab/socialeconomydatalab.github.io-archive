@@ -22,7 +22,7 @@ Below you can find out more about the spec, and where we are up to.
 
 The simplest way to think of the SEDL Data Specification is as a **shared data template for social investors**. 
 
-<img src="({{site.url}}/img/blog/template-gif.gif)" width="1000" alt="Animation fo the template"/>
+<img src="(https://github.com/SocialEconomyDataLab/socialeconomydatalab.github.io/blob/master/img/blog/template-gif.gif)" width="1000" alt="Animation of the template"/>
 
 If you [look at our documentation, you will find a spreadsheet version of this template](http://spec.socialeconomydatalab.org/en/latest/getting_started/datatemplate/), which is pre-configured with columns for describing social investment deals, the projects they relate to, the assets they invest in, and the different components that make them up, including grants, loans and equity. 
 
